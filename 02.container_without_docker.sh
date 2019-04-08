@@ -41,4 +41,4 @@ EOF
 sudo systemctl start debian
 sudo systemctl status debian
 
-# .... 后略，为容器环境初始化和个性化设置，包括配置网络，安装 ssh server，配置认证方式（我需要支持 LDAP 和 Kerberos）等。
+# .... 后略，为容器环境初始化和个性化设置，包括配置网络，安装 ssh server，配置认证方式（需要支持 LDAP 和 Kerberos）等。
