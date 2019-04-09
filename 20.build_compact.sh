@@ -1,7 +1,7 @@
 #!/usr/bin/env perl
 
 # fork from https://gist.github.com/mpasternacki/6660958
-# the original script is too old according latest docker.
+# the original script is too old on latest docker.
 
 use feature 'switch';
 use strict;
